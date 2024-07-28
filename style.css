@@ -1,0 +1,380 @@
+*{
+    margin:0;
+    font-family: Arial;
+    border: border-box;
+}
+.navbar{
+    height: 100px;
+    background-color: #121212;
+    color: rgb(255, 255, 255);
+    display:flex;
+    align-items: center;
+}
+.nav-logo{
+    height:80px;
+    width:80px;
+    margin-top:0px;
+    margin-left: 40px;
+
+}
+.logo{
+    background-image: url("tmwhite.png");
+    height:80px;
+    width: 80px;
+    background-size: cover;
+}
+.border{
+    border:1.5px solid transparent;
+}
+.border:hover{
+    border: 1.5px solid white;
+}
+.nav-name{
+    height: 25px;
+    width: 150px;
+    margin-bottom: -30px;
+}
+.fn{
+    color: rgb(171, 171, 171);
+    font-size: 1.5rem;
+}
+.navbar2{
+    height:700px;
+    display:flex;
+    align-items: center;
+    background-color: #000000;
+}
+.currentgame{
+    background-image: url("gta.png");
+    height:700px;
+    width:1350px;
+    background-size:cover;
+}
+
+.gamename{
+    font-size: 3rem;
+    color: #ffe9b6;
+    background-color: #00000000;
+    font-weight: 800;
+}
+.gamecon{
+    margin-left: 30px;
+    height: 50px;
+    width: 180px;
+    margin-bottom: 400px;
+}
+.watch{
+    height:50px;
+    width:150px;
+    margin-top:120px;
+    margin-left:50px;
+    
+}
+.watchbutton{
+    background-color:#00000000;
+    color: #ffffff;
+    height: 50px;
+    width: 150px;
+    border-color: transparent;
+    font-size: 25px;
+    font-style:oblique;
+    cursor: pointer;
+}
+.border2{
+    border:1.8px solid white;
+    border-radius: 15px;
+}
+.border2:hover{
+    border: 2px solid rgb(255, 252, 85);
+    border-radius: 15px;
+}
+.tmname{
+    color: #b6b6b6;
+}
+.gameop{
+    height:50px;
+    width:150px;
+    margin-left:20px;
+    margin-top:30px;
+}
+.opbutton{
+    background-color:#00000000;
+    color: #ffffff;
+    height: 50px;
+    width: 150px;
+    border-color: transparent;
+    font-size: 20px;
+    font-style:oblique;
+    cursor: pointer;
+}
+.vidop{
+    height:50px;
+    width:150px;
+    margin-top:30px;
+    margin-left: 20px;
+}
+.vidbutton{
+    background-color:#00000000;
+    color: #ffffff;
+    height: 50px;
+    width: 150px;
+    border-color: transparent;
+    font-size: 20px;
+    font-style:oblique;
+    cursor: pointer;
+}
+.download{
+    height:50px;
+    width:150px;
+    margin-left:20px;
+    margin-top:30px
+}
+.downloadbutton{
+    background-color:#00000000;
+    color: #ffffff;
+    height: 50px;
+    width: 150px;
+    border-color: transparent;
+    font-size: 20px;
+    font-style:oblique;
+    cursor: pointer;
+}
+.support{
+    height:50px;
+    width:150px;
+    margin-left:20px;
+    margin-top:30px
+}
+.supportbutton{
+    background-color:#00000000;
+    color: #ffffff;
+    height: 50px;
+    width: 150px;
+    border-color: transparent;
+    font-size: 20px;
+    font-style:oblique;
+    cursor: pointer;
+}
+.Carrer{
+    height:50px;
+    width:150px;
+    margin-left:20px;
+    margin-top:30px
+}
+.carrerbutton{
+    background-color:#00000000;
+    color: #ffffff;
+    height: 50px;
+    width: 150px;
+    border-color: transparent;
+    font-size: 20px;
+    font-style:oblique;
+    cursor: pointer;
+}
+.commingsoon{
+    background-image: url("commingsoon.png");
+    background-size: cover;
+    height: 150px;
+    width:300px;
+    margin-top: 130px;
+    margin-left: 50px;
+}
+.user{
+    background-image: url("user.png");
+    background-size: cover;
+    height:50px;
+    width:50px;
+    margin-left:650px;
+    margin-top:15px
+}
+.userbutton{
+    background-color:#00000000;
+    color: #ffffff;
+    height: 50px;
+    width: 50px;
+    border-color: transparent;
+    font-size: 20px;
+    font-style:oblique;
+    cursor: pointer;
+}
+.guestuser{
+    font-size:13px;
+}
+.border3{
+    border:1.8px solid rgb(255, 255, 255);
+    border-radius: 50px;
+}
+.border3:hover{
+    border: 2px solid rgb(255, 217, 0);
+    border-radius: 50px;
+}
+.borderp{
+    border-bottom:0.3px solid#ffffff65;
+    border-radius: 10px;
+}
+.borderpp{
+    border:0.3px solid#ffffff65;
+    border-radius: 10px;
+}
+.navbar3{
+    height: 100px;
+    background-color: #121212;
+    color: rgb(255, 255, 255);
+    display:flex;
+    align-items: center;
+}
+.navbar4{
+    height:500px;
+    align-items: center;
+    background-color: #131313;
+}
+.moreitem1{
+    display:flex; 
+    height:500px;
+}
+.item{
+    margin-top:20px;
+    margin-left:100px;
+    height:430px;
+    width:350px;
+}
+.img1{
+    margin-top:20px;
+    margin-left:25px;
+    background-image: url("pracsuit.png");
+    background-size: cover;
+    height: 300px;
+    width:300px
+}
+.img2{
+    margin-top:20px;
+    margin-left:25px;
+    background-image: url("cfs.png");
+    background-size: cover;
+    height: 300px;
+    width:300px
+}
+.img3{
+    margin-top:20px;
+    margin-left:25px;
+    background-image: url("neondice.png");
+    background-size: cover;
+    height: 300px;
+    width:300px
+}
+.img4{
+    margin-top:20px;
+    margin-left:25px;
+    background-image: url("none.png");
+    background-size: cover;
+    height: 300px;
+    width:300px
+}
+.buttonitem{
+    margin-left:100px;
+    margin-top:10px;
+    background-color:#00000000;
+    color: #ffffff;
+    height: 50px;
+    width: 150px;
+    border-color: transparent;
+    font-size: 20px;
+    font-style:oblique;
+    cursor: pointer;
+}
+.nameg{
+    text-align: center;
+    margin-top:10px;
+    color:#ffffff;
+    font-weight: 600;
+    font-size:larger;
+}
+.moregame{
+    color:white;
+    font-size: 30px;
+    text-align: center;
+    margin-left: 900px;
+    font-weight: 722;
+}
+.navbar5{
+    height:500px;
+    background-color: #000000;
+}
+.moreinfo{
+    color:#ffffff;
+    border-bottom: 2px solid rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight:500px;
+    text-align: center;
+}
+.infoop{
+    display:flex;
+    margin-top: 45px;
+    margin-left:120px;
+}
+.infobuttons{
+    background-color: transparent;
+    color:rgb(255, 255, 255);
+    font-size: 25px;
+    border:transparent;
+    margin-top:10px;
+    margin-left: 20px;
+    font-weight: 700;
+}
+.borderop{
+    border:transparent;
+}
+.borderop:hover{
+    color:rgb(255, 232, 100);
+}
+.moreop1{
+    margin-top: 70px;
+}
+.leftop1{
+    margin-left:120px;
+}
+.leftop2{
+    margin-left:120px;
+    margin-top: 20px;
+}
+.leftop3{
+    margin-left:120px;
+    margin-top: 20px;
+}
+.leftbutton{
+    background-color: transparent;
+    color:rgb(187, 187, 187);
+    font-size: 20px;
+    border:transparent;
+    margin-top:10px;
+    margin-left: 20px;
+}
+.leftrightop{
+    display:flex;
+}
+.moreop2{
+    margin-left: 1500px;
+    margin-top:70px;
+}
+.yt{
+    background-image: url("youtube.png");
+    height:30px;
+    width:30px;
+    background-size: cover;
+}
+.ig{
+    background-image: url("instagram.png");
+    height:30px;
+    width:30px;
+    background-size: cover;
+    margin-left:15px;
+}
+.endname{
+    margin-top:130px;
+    margin-left:140px;
+}
+.endnametm{
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    font-weight:bolder
+}

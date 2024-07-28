@@ -1,0 +1,126 @@
+*{
+    margin:0;
+    font-family: Arial;
+    border: border-box;
+}
+.tmname{
+    color: #b6b6b6;
+}
+.navbar{
+    height: 100px;
+    background-color: #121212;
+    color: rgb(255, 255, 255);
+    display:flex;
+    align-items: center;
+}
+.nav-logo{
+    height:80px;
+    width:80px;
+    margin-top:0px;
+    margin-left: 40px;
+
+}
+.logo{
+    background-image: url("tmwhite.png");
+    height:80px;
+    width: 80px;
+    background-size: cover;
+}
+.nav-name{
+    height: 25px;
+    width: 150px;
+    margin-bottom: -30px;
+    display: flex;
+}
+.fn{
+    color: rgb(171, 171, 171);
+    font-size: 1.5rem;
+}
+.mn{
+    color:rgb(171, 171, 171);
+    font-size: 60px;
+    margin-top: -25px;
+}
+.ln{
+    color: rgb(231, 231, 231);
+    font-size: 1.5rem;
+}
+.Home{
+    height:50px;
+    width:150px;
+    margin-left:200px;
+    margin-top:40px;
+}
+.homebutton{
+    background-color:#00000000;
+    color: #ffffff;
+    height: 50px;
+    width: 150px;
+    border-color: transparent;
+    font-size: 20px;
+    font-style:oblique;
+    cursor: pointer;
+}
+.navbar2{
+    height:700px;
+    display:flex;
+    align-items: center;
+    background-color: #000000;
+}
+.currentgame{
+    background-image: url("gta.png");
+    height:500px;
+    width:950px;
+    background-size:cover;
+    border-right:5px solid white;
+}
+.empty{
+    height:700px;
+    border-left: 2px solid white;
+    margin-left: 90px;
+}
+.gamename{
+    font-size: 3rem;
+    color: #ffe9b6;
+    background-color: #00000000;
+    font-weight: 800;
+}
+.gamecon{
+    margin-left:10px;
+    height: 50px;
+    width: 180px;
+    margin-bottom: 400px;
+}
+.watch{
+    height:50px;
+    width:150px;
+    margin-top:120px;
+    margin-left:50px;
+    
+}
+.watchbutton{
+    background-color:#00000000;
+    color: #ffffff;
+    height: 50px;
+    width: 150px;
+    border-color: transparent;
+    font-size: 25px;
+    font-style:oblique;
+    cursor: pointer;
+}
+.border2{
+    border:1.8px solid white;
+    border-radius: 15px;
+}
+.border2:hover{
+    border: 2px solid rgb(255, 252, 85);
+    border-radius: 15px;
+}
+.commingsoon{
+    background-image: url("commingsoon.png");
+    background-size: cover;
+    height: 150px;
+    width:300px;
+    margin-top: 130px;
+    margin-left: 50px;
+}
